@@ -1,0 +1,42 @@
+* {
+    font-family: fantasy, sans-serif;
+    background-color: rgba(235, 175, 117, .25);
+    text-align: center;
+}
+
+h1 {
+    font-size:50px;
+    border-radius:20px;
+    padding-top: 15px;
+    font-family: "Shadows Into Light", cursive;
+    color: #b9484e;
+}
+
+p {
+    display:block;
+    font-size:22px;
+    color: #404040;
+    text-align:justify;
+    margin: 15px;
+}
+
+#image {
+    margin: auto;
+    max-width: 60%;
+    display: block;
+    border-radius: 20px;
+}
+
+#img-div {
+    border: 10px solid #404040;
+    border-radius: 50px;
+    background-color: rgba(243,228,150,.5);
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.link-out {
+    text-align: center;
+    padding-top 20px;
+    padding-bottom: 10%;
+}
